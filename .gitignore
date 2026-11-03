@@ -1,0 +1,32 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.log
+
+# Local data and generated artifacts
+/main_train/formula_LaTeX_OCR/
+/main_train/picture_LaTeX_OCR/
+/main_train/table_LaTeX_OCR/
+/main_train/*_latex_ocr_*.csv
+/main_train/*_latex_ocr_*.json
+/main_train/Picture_latex_ocr_*.csv
+/main_train/Picture_latex_ocr_*.json
+/main_train/output/
+/main_train/output0/
+/main_train/output1/
+/RAG/mirror013/
+/RAG/damo/
+/chroma_db/
+/RAG/chroma_db/
+
+# Local course materials and exploratory files
+/report.pdf
+/RAG/LaTeX使用手册.pdf
+/RAG/0001.png
+/RAG/Untitled.ipynb
+/main_train/train_parameter.txt
