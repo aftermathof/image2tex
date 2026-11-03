@@ -1,4 +1,4 @@
-# 图像转 LaTeX：LoRA 微调与 RAG 检索增强
+# 图表转 LaTeX：LoRA 微调与 RAG 检索增强
 
 本项目的目标是把公式、表格等图片转换为 LaTeX 代码，并利用文档检索辅助生成注释。实验使用 Qwen2-VL-2B-Instruct 与 Qwen2.5-VL-7B-Instruct，比较原始模型、RAG、LoRA 以及 LoRA + RAG 四种方案。
 
